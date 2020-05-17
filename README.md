@@ -1,16 +1,13 @@
-# flutter_clean_architecture_sample
+## Clean Architecture
+![Clean Architecture](https://i1.wp.com/resocoder.com/wp-content/uploads/2019/08/CleanArchitecture.jpg)
+![Diagram of the app](https://i0.wp.com/resocoder.com/wp-content/uploads/2019/08/Clean-Architecture-Flutter-Diagram.png?w=556&ssl=1)
 
-A new Flutter project.
+## Details
+- Reso coder Clean Architecture course: https://resocoder.com/flutter-clean-architecture-tdd/
 
-## Getting Started
+## Additional links
+- Moor (Room for Flutter ): https://www.youtube.com/watch?v=zpWsedYMczM
+- Dark & Light theme in Flutter: https://www.youtube.com/watch?v=YYbhkg-W8Mg
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Next video
+https://resocoder.com/2019/08/29/flutter-tdd-clean-architecture-course-2-entities-use-cases/
