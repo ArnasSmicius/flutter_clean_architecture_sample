@@ -11,7 +11,9 @@
 
 - Moor (Room for Flutter ): https://www.youtube.com/watch?v=zpWsedYMczM
 - Dark & Light theme in Flutter: https://www.youtube.com/watch?v=YYbhkg-W8Mg
+- Sembast DB: https://www.youtube.com/watch?v=LcaOULash7s
+- Chopper (Retrofit for Flutter): https://www.youtube.com/watch?v=zFXK5EsrUF0
 
 ## Next video
 
-https://resocoder.com/2019/09/12/flutter-tdd-clean-architecture-course-5-contracts-of-data-sources/
+https://resocoder.com/2019/09/19/flutter-tdd-clean-architecture-course-6-repository-implementation/
