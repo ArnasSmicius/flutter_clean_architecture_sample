@@ -16,4 +16,4 @@
 
 ## Next video
 
-https://resocoder.com/2019/09/19/flutter-tdd-clean-architecture-course-6-repository-implementation/
+https://resocoder.com/2019/09/23/flutter-tdd-clean-architecture-course-7-network-info/
