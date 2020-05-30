@@ -16,4 +16,4 @@
 
 ## Next video
 
-https://resocoder.com/2019/09/23/flutter-tdd-clean-architecture-course-7-network-info/
+https://resocoder.com/2019/09/26/flutter-tdd-clean-architecture-course-8-local-data-source/
