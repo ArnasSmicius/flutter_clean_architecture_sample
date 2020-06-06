@@ -16,4 +16,4 @@
 
 ## Next video
 
-https://resocoder.com/2019/10/07/flutter-tdd-clean-architecture-course-10-bloc-scaffolding-input-conversion/
+https://resocoder.com/2019/10/10/flutter-tdd-clean-architecture-course-11-bloc-implementation/
