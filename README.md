@@ -13,7 +13,8 @@
 - Dark & Light theme in Flutter: https://www.youtube.com/watch?v=YYbhkg-W8Mg
 - Sembast DB: https://www.youtube.com/watch?v=LcaOULash7s
 - Chopper (Retrofit for Flutter): https://www.youtube.com/watch?v=zFXK5EsrUF0
+- Localize (translation managemed): https://resocoder.com/2019/06/01/flutter-localization-the-easy-way-internationalization-with-json/
 
 ## Next video
 
-https://resocoder.com/2019/10/10/flutter-tdd-clean-architecture-course-11-bloc-implementation/
+https://resocoder.com/2019/10/14/flutter-tdd-clean-architecture-course-11-bloc-implementation-2-2/
