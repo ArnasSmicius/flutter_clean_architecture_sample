@@ -17,4 +17,4 @@
 
 ## Next video
 
-https://resocoder.com/2019/10/14/flutter-tdd-clean-architecture-course-11-bloc-implementation-2-2/
+https://resocoder.com/2019/10/21/flutter-tdd-clean-architecture-course-13-dependency-injection-user-interface/
