@@ -17,4 +17,4 @@
 
 ## Next video
 
-https://resocoder.com/2019/10/21/flutter-tdd-clean-architecture-course-13-dependency-injection-user-interface/
+https://resocoder.com/2019/10/29/flutter-tdd-clean-architecture-course-14-user-interface/
